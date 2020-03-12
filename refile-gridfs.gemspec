@@ -17,7 +17,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
 
-  spec.add_dependency "refile", "~> 0.6.1"
+  spec.add_dependency "refile", "~> 0.7.0"
   spec.add_dependency "mongo", "~> 2.1"
 
   spec.add_development_dependency "webmock", "~> 1.20.4"
